@@ -9,3 +9,5 @@ twitter_username: Wynlla # DO NOT include the @ character, or else the build wil
 github_username:  wy-go # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
